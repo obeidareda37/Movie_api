@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">movies_api</string>
+    <string name="tv_shows_mostpopular">TV Shows</string>
+    <string name="read_more">Read More</string>
+    <string name="read_less">Read less</string>
+    <string name="u2022">•</string>
+    <string name="website">Website</string>
+    <string name="episodes">Episodes</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="search_tv_show">Search TV Show</string>
+</resources>
